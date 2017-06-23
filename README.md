@@ -16,5 +16,5 @@ React-Native chat app with Deepstream.io
 * npm install deepstream.io
 
 ## Run:
-* Client: react-native run-android
+* Client:  react-native run-android
 * Server: node dpStream.js
